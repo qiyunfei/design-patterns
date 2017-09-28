@@ -1,4 +1,4 @@
-package com.cloudfly.designpatterns.creational.Prototype;
+package com.cloudfly.designpatterns.creational.prototype;
 
 import java.io.Serializable;
 
