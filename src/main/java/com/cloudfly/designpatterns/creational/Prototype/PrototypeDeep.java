@@ -13,7 +13,7 @@ import lombok.experimental.Accessors;
 
 /**
  * @ClassName:Prototype.java
- * @Description:浅复制
+ * @Description:深复制
  * @author yunfei.qi
  * @date 2017年9月27日 下午8:15:07
  */
