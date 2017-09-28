@@ -1,4 +1,4 @@
-package com.cloudfly.designpatterns.creational.prototype;
+package com.cloudfly.designpatterns.creational.Prototype;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
