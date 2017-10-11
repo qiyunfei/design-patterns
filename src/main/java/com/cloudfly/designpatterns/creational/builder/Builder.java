@@ -3,9 +3,9 @@ package com.cloudfly.designpatterns.creational.builder;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.cloudfly.designpatterns.creational.factorymethod.MailSender;
 import com.cloudfly.designpatterns.creational.factorymethod.Sender;
-import com.cloudfly.designpatterns.creational.factorymethod.impl.MailSender;
-import com.cloudfly.designpatterns.creational.factorymethod.impl.SmsSender;
+import com.cloudfly.designpatterns.creational.factorymethod.SmsSender;
 
 public class Builder {
     private List<Sender> list = new ArrayList<>();

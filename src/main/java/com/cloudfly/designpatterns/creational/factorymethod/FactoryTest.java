@@ -1,7 +1,4 @@
-package com.cloudfly.designpatterns.creational.factorymethod.test;
-
-import com.cloudfly.designpatterns.creational.factorymethod.SendFactory;
-import com.cloudfly.designpatterns.creational.factorymethod.Sender;
+package com.cloudfly.designpatterns.creational.factorymethod;
 
 public class FactoryTest {
 

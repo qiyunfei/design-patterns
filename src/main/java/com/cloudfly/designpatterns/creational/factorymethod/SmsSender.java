@@ -1,6 +1,4 @@
-package com.cloudfly.designpatterns.creational.factorymethod.impl;
-
-import com.cloudfly.designpatterns.creational.factorymethod.Sender;
+package com.cloudfly.designpatterns.creational.factorymethod;
 
 public class SmsSender implements Sender{
 

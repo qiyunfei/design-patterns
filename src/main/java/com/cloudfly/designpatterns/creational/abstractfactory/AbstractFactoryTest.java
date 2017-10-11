@@ -1,9 +1,5 @@
-package com.cloudfly.designpatterns.creational.abstractfactory.test;
+package com.cloudfly.designpatterns.creational.abstractfactory;
 
-import com.cloudfly.designpatterns.creational.abstractfactory.Provider;
-import com.cloudfly.designpatterns.creational.abstractfactory.impl.SendMailFactory;
-import com.cloudfly.designpatterns.creational.abstractfactory.impl.SendSmsFactory;
-import com.cloudfly.designpatterns.creational.abstractfactory.impl.SendWechatFactory;
 import com.cloudfly.designpatterns.creational.factorymethod.Sender;
 
 public class AbstractFactoryTest {

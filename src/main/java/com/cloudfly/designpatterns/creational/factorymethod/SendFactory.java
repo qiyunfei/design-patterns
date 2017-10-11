@@ -1,8 +1,5 @@
 package com.cloudfly.designpatterns.creational.factorymethod;
 
-import com.cloudfly.designpatterns.creational.factorymethod.impl.MailSender;
-import com.cloudfly.designpatterns.creational.factorymethod.impl.SmsSender;
-
 public class SendFactory {
     
     /**
